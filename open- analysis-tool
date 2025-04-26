@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Open Analysis Tool</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Open Analysis Tool</h1>
+    <p>Your synthetic market companion for Deriv</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#bot">Binary Bot</a>
+    <a href="#features">Features</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <main>
+    <section id="bot">
+      <h2>Binary Bot Access</h2>
+      <p>Run or edit your Binary Bot strategies directly from here.</p>
+      <a href="https://bot.deriv.com/" target="_blank" class="button">Launch Binary Bot</a>
+    </section>
+
+    <section id="features">
+      <h2>What This Tool Offers</h2>
+      <ul>
+        <li>Analysis for synthetic indices</li>
+        <li>Bot integration & strategy support</li>
+        <li>Clean UI, mobile-friendly design</li>
+        <li>Custom indicators & price feeds (coming soon)</li>
+      </ul>
+    </section>
+
+    <section id="about">
+      <h2>About the Project</h2>
+      <p>Built by E-96 Kenya. This tool simplifies market analysis and automates trading strategy development for Deriv's synthetic markets.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Open Analysis Tool | Built for Deriv Traders</p>
+  </footer>
+</body>
+</html>
